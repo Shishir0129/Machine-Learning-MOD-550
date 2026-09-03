@@ -19,7 +19,7 @@ def run_my_automated_tests():
     
     print("All fridge temperature tests passed successfully!")
     
-    sample_power_data = 
+    sample_power_data = [0, 1, 2, 3]
 
     calculated_math_total = add_up_all_power(sample_power_data)
     
